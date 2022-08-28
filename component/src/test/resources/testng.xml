@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Siddhi-Map-M1-Test-Suite">
+    <test name="Siddhi-map-m1-tests" enabled="true" preserve-order="true" parallel="false">
+        <classes>
+            <class name="m6.sinkmapper.TestCaseOfm4"/>
+            <class name="m6.sourcemapper.TestCaseOfm5"/>
+        </classes>
+    </test>
+</suite>
